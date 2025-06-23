@@ -1,1 +1,1 @@
-THIS IS FOR BIDIRGRU
+THIS IS FOR BI Directional Gated Recurrent Unit
